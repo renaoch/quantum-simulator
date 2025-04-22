@@ -1,0 +1,53 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Distribution / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media
+
+# Test and Coverage Reports
+.coverage
+*.cover
+.tox/
+nosetests.xml
+coverage.xml
+*.hypothesis/
+*.tox/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+*.swn
